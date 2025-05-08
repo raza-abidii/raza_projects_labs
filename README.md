@@ -1,5 +1,10 @@
-## This repo is for the submintion of Projects and Labs
-### LAB1:- 
+# Computational Labs and Projects with Python
+
+Welcome to a growing collection of computational labs and projects built using Python. This repository includes hands-on notebooks across various domains such as Linear Algebra, Data Science, Machine Learning, and more.
+
+Each lab is designed to be educational, beginner-friendly, and practical — with explanations, code examples, and visual outputs using libraries like **NumPy**, **Matplotlib**, and others.
+
+## LAB1:- 
 Basics of Linear Algebra
 In this **Lab 1** of the Linear Algebra series using **NumPy** and **Matplotlib**. This lab explores essential operations for vectors and matrices — including dot products, transposes, inverses, eigenvalues, SVD, and image compression.
 
