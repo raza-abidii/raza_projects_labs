@@ -8,8 +8,6 @@ In this **Lab 1** of the Linear Algebra series using **NumPy** and **Matplotlib*
 - Apply matrix decomposition (SVD) for image compression
 - Solve systems of linear equations programmatically
 
----
-
 ## Matrix Operations
 - **Transpose**: `A.T`
 - **Dot Product**: `np.dot(A, B)` or `A @ B`
