@@ -1,7 +1,14 @@
-### This repo is for the submintion of Projects and Labs
+## This repo is for the submintion of Projects and Labs
 ### LAB1:- 
 Basics of Linear Algebra
+In this **Lab 1** of the Linear Algebra series using **NumPy** and **Matplotlib**. This lab explores essential operations for vectors and matrices — including dot products, transposes, inverses, eigenvalues, SVD, and image compression.
 
+- Perform basic and advanced matrix operations using NumPy
+- Understand and compute dot, inner, and outer products
+- Apply matrix decomposition (SVD) for image compression
+- Solve systems of linear equations programmatically
+
+---
 
 ## Matrix Operations
 - **Transpose**: `A.T`
