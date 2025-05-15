@@ -57,3 +57,45 @@ reconst = U @ Sigma[:, :, :k] @ V[:, :k, :]
 reconst = np.transpose(reconst, (1, 2, 0))
 plt.imshow(reconst)
 plt.show()
+```
+
+## Lab2:- 
+Statistics and Probability: Fundamentals
+
+### 1. **Probability and Random Events**
+- Simulating coin tosses (`Heads` or `Tails`)
+- Simulating dice rolls
+- Visualizing outcomes using bar and pie charts
+
+### 2. **Probability Distributions**
+- **Bernoulli** and **Binomial Distributions**
+- **Normal Distribution** and the Empirical Rule
+- **Poisson Distribution**
+- Central Limit Theorem and sample means
+
+### 3. **Experimental vs Theoretical Probability**
+- Estimating probabilities via simulation
+- Understanding **Regression to the Mean**
+
+### 4. **Card Probability Problems**
+- Probability of drawing numbered cards
+- With and without replacement
+- Deck cutting scenarios
+
+### 5. **Expectation and Simulation**
+- Computing expected value via simulation
+- Problem: drawing until an Ace is found
+
+### 6. **Measurement and Errors**
+- Squared vs Absolute Error
+- Mean Squared Error visualization
+
+### 7. **Standardization**
+- Standardizing scores across Physics, Biology, and Math
+- Visualizing standardized distributions
+
+### 8. **Random Variables**
+- Difference between discrete and continuous
+- Using `scipy.stats` for distribution functions (`pmf`, `cdf`, `ppf`, etc.)
+
+
